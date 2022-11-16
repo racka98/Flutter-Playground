@@ -1,6 +1,6 @@
-# flutter_firebase
+# Flutter Playground
 
-Firebase setup for Flutter.
+Experimenting with Flutter.
 
 ## Getting Started
 
